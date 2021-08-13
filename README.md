@@ -10,7 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img src = ".github/wonderwoman.png" width = "325px" align = "right">
+<img src = ".github/workflows/wonderwoman.png" width = "325px" align = "right">
 
  <div>
   <a href="https://github.com/jesiane">
